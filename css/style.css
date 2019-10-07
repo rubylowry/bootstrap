@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.myBackground {
+  background-color: #B9FFD7;
+}
+
+.myImage{
+  margin: 40px;
+  width: 200px;
+}
+
+.myPara {
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+.myCol {
+  color: #65C68E ;
+}
+
+.myBorder {
+  border: solid #7EFFB5;
+}
