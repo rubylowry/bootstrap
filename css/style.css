@@ -5,12 +5,11 @@
 }
 
 .myBackground {
-  background-color: #B9FFD7;
+  background-color: #E4FFEF;
 }
 
 .myImage{
-  margin: 40px;
-  width: 200px;
+  width: 250px;
 }
 
 .myPara {
@@ -24,4 +23,30 @@
 
 .myBorder {
   border: solid #7EFFB5;
+}
+
+.myBg {
+  color: #B7FFE6;
+}
+
+.text-center {
+  text-align:center!important;
+}
+
+.blog-header-logo {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 2.25rem;
+}
+
+.text-muted {
+  color: #6c757d!important;
+}
+
+.p-2 {
+  padding: 0.5rem!important;
+}
+
+.carousel-inner {
+  max-height: 500px;
+  min-height: 500px;
 }
